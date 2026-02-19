@@ -281,7 +281,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 
                 <h4 style="color:#E6AF2E; margin-bottom:0.5rem;">【Process & Outcome】</h4>
                 <p style="margin-bottom: 1rem;">I then aggregated the results by product to calculate average sentiment, average rating, and review counts, and loaded the processed dataset into Power BI to build an interactive dashboard. The dashboard highlights overall sentiment KPIs, sentiment distribution, a keyword-based word cloud, the top 10 products with the highest sentiment scores, and dynamic slicers for year and rating, enabling users to drill down from high-level trends to individual review texts and uncover actionable customer insights.</p>
-                <p style="margin-top: 20px;"><a href="https://github.com/hanssusansu/Amazon-Product-Review-Sentiment-Mining-Project/" target="_blank" class="dashboard-btn">View GitHub Project</a></p>
+                <p style="margin-top: 20px;"><a href="https://github.com/Hansforwork1/Amazon-Product-Review-Sentiment-Mining-Project" target="_blank" class="dashboard-btn">View GitHub Project</a></p>
             `,
             exp_6_imgs: [
                 { "src": "files/images/amazon dashboard.png", "caption": "Amazon Product Sentiment Analysis Dashboard" }
@@ -335,7 +335,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     Backend API: Built high-performance RESTful APIs using FastAPI.<br>
                     Interactive Frontend: Used Gradio to quickly build intuitive Chatbot interfaces and implemented real-time streaming responses.</li>
                 </ul>
-                <p style="margin-top: 20px;"><a href="https://github.com/hanssusansu/Ganoderma-Paper-RAG-System-" target="_blank" class="dashboard-btn">View GitHub Repository</a></p>
+                <p style="margin-top: 20px;"><a href="https://github.com/Hansforwork1/Ganoderma-Paper-RAG-System-" target="_blank" class="dashboard-btn">View GitHub Repository</a></p>
             `,
             exp_8_imgs: [
                 { "src": "files/images/rag system flow chart eng.png", "caption": "System Architecture Flowchart" },
