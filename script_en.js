@@ -256,7 +256,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <p style="margin-bottom: 1rem;">This project integrated Python and Microsoft Power BI technologies to process primitive data, visualize it, and perform algorithmic analysis, deeply analyzing the key drivers behind a high 27.49% churn rate on an e-commerce platform.</p>
                 <h4 style="color:#E6AF2E; margin-bottom:0.5rem;">【Analysis Architecture & Insights】</h4>
                 <p style="margin-bottom: 1rem;">Analysis showed that 'total purchases under 3 times' was the primary churn warning signal, with a churn risk 1.68 times that of other groups; meanwhile, short average conversation time (<8.3 minutes) and low Customer Lifetime Value (<322) were also important predictive indicators.</p>
-                <p style="margin-bottom: 1rem;">Based on these findings, it is suggested to establish a 7-14 day 'golden period' remarketing mechanism for customers with few purchases, designing exclusive Landing Pages and personalized EDMs, while synchronously optimizing customer service experience to improve customer stickiness and retention from the source.<br><br><a href="files/顧客流失分析.pdf" target="_blank" class="dashboard-btn">View My Work</a></p>
+                <p style="margin-bottom: 1rem;">Based on these findings, it is suggested to establish a 7-14 day 'golden period' remarketing mechanism for customers with few purchases, designing exclusive Landing Pages and personalized EDMs, while synchronously optimizing customer service experience to improve customer stickiness and retention from the source.</p>
             `,
 
             exp_5_time: "Dec 2025 – Present",
@@ -464,8 +464,8 @@ document.addEventListener('DOMContentLoaded', () => {
             ],
 
             exp_4_imgs: [
-                { "src": "files/images/churned rate dashboard1.png", "caption": "Customer Churn Rate Analysis Dashboard 1" },
-                { "src": "files/images/churned rate dashboard2.png", "caption": "Customer Churn Rate Analysis Dashboard 2" }
+                { "src": "files/images/customer churned dashboard_page-0002.jpg", "caption": "Customer Churn Rate Analysis Dashboard 1" },
+                { "src": "files/images/customer churned dashboard_page-0001.jpg", "caption": "Customer Churn Rate Analysis Dashboard 2" }
             ],
 
             exp_6_imgs: [
