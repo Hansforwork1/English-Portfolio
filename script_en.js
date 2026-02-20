@@ -464,8 +464,8 @@ document.addEventListener('DOMContentLoaded', () => {
             ],
 
             exp_4_imgs: [
-                { "src": "files/images/customer churned dashboard_page-0002.jpg", "caption": "Customer Churn Rate Analysis Dashboard 1" },
-                { "src": "files/images/customer churned dashboard_page-0001.jpg", "caption": "Customer Churn Rate Analysis Dashboard 2" }
+                { "src": "files/images/customer churned dashboard_page-0001.jpg", "caption": "Customer Churn Rate Analysis Dashboard 1" },
+                { "src": "files/images/customer churned dashboard_page-0002.jpg", "caption": "Customer Churn Rate Analysis Dashboard 2" }
             ],
 
             exp_6_imgs: [
